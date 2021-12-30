@@ -1,4 +1,4 @@
-<h2> Hi, I'm Martín Aguilar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Martín Aguilar! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50"></h2>
 <p><em>Frontend Developer <a href="http://www.unb.br"></a></br>GDSC LEAD <a href="https://gdsc.community.dev/universidad-autonoma-del-estado-de-mexico-cu-uaem-valle-de-mexico/">GDSC CU UAEM Valle de México</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -23,7 +23,7 @@ const martin = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with others developers <b>and share knowledge!</b> :)</em>
 
 ---
 
