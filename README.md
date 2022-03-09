@@ -16,7 +16,7 @@ const martin = {
   tools: [RXJS, NGRX, Node JS],
   techCommunities: {
                         organizer: "GDSC",
-                        co-organizer: "GDSC LATAM",
+                        coorganizer: "GDSC LATAM",
                      
                       },
 
