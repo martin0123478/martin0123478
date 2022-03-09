@@ -16,8 +16,8 @@ const martin = {
   tools: [RXJS, NGRX, Node JS],
   techCommunities: {
                         organizer: "GDSC",
-                        speaker: "GDSC LATAM",
-                        mentor: "Poli Hacks"
+                        co-organizer: "GDSC LATAM",
+                     
                       },
 
 }
