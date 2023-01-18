@@ -12,7 +12,7 @@
 ```javascript
 const martin = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Bootstrap, SASS, Angular, Vue],
+  code: [Javascript, Typescript, HTML, CSS, Bootstrap, SASS, Angular, React],
   tools: [RXJS, NGRX, Node JS],
   techCommunities: {
                         organizer: "GDSC",
