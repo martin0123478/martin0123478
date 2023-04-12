@@ -13,7 +13,7 @@
 const martin = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Bootstrap, SASS, Angular, React],
-  tools: [RXJS, NGRX, Node JS],
+  tools: [Context, Redux, Node JS],
   techCommunities: {
                         organizer: "GDSC",
                         coorganizer: "GDSC LATAM",
