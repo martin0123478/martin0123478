@@ -1,5 +1,5 @@
 <h2> Hi, I'm Martín Aguilar! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50"></h2>
-<p><em>Frontend Developer <a href="http://www.unb.br"></a></br> Organizer <a href="https://gdg.community.dev/gdg-atizapan/">GDG </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Frontend Developer <a href="http://www.unb.br"></a></br> Organizer <a href="https://gdg.community.dev/gdg-atizapan/">Google Developer Group </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: martin_parker7](https://img.shields.io/twitter/follow/martin_parker7?style=social)](https://twitter.com/martin_parker7)
